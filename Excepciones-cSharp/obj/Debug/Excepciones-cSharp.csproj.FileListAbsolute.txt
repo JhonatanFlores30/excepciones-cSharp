@@ -1,0 +1,7 @@
+C:\Users\jhona\Desktop\POO U5\Excepciones-cSharp\bin\Debug\Excepciones-cSharp.exe.config
+C:\Users\jhona\Desktop\POO U5\Excepciones-cSharp\bin\Debug\Excepciones-cSharp.exe
+C:\Users\jhona\Desktop\POO U5\Excepciones-cSharp\bin\Debug\Excepciones-cSharp.pdb
+C:\Users\jhona\Desktop\POO U5\Excepciones-cSharp\obj\Debug\Excepciones-cSharp.csproj.AssemblyReference.cache
+C:\Users\jhona\Desktop\POO U5\Excepciones-cSharp\obj\Debug\Excepciones-cSharp.csproj.CoreCompileInputs.cache
+C:\Users\jhona\Desktop\POO U5\Excepciones-cSharp\obj\Debug\Excepciones-cSharp.exe
+C:\Users\jhona\Desktop\POO U5\Excepciones-cSharp\obj\Debug\Excepciones-cSharp.pdb
